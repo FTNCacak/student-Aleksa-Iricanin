@@ -1,0 +1,48 @@
+header {
+	padding:1em;
+    color: green;
+    background-color: yellow;
+    text-align: center;
+clear: right;
+}
+nav {
+    float: left;
+    max-width: 500px;
+    margin: 0;
+    padding: 1em;
+	
+}
+a{
+	text-decoration:none;
+}
+
+ul li {
+	list-style:none;
+	
+}
+ul li a:hover{
+	background-color:blue;
+}
+footer {
+	padding:1em;
+    color: green;
+    background-color: yellow;
+    text-align: center;
+	clear: left;
+	}
+padding {
+    margin-left: 170px;
+    padding: left;
+	margin-left:170px;
+	
+}
+padding{
+    margin-left: 170px;
+    padding: right;
+	margin-left:170px;
+	
+}
+.slika{
+float:right;
+margin:15px 15px;
+}
